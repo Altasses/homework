@@ -1,0 +1,15 @@
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.csproj.AssemblyReference.cache
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.AssemblyInfoInputs.cache
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.AssemblyInfo.cs
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.csproj.CoreCompileInputs.cache
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\bin\Debug\net6.0\SeminarTask4.exe
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\bin\Debug\net6.0\SeminarTask4.deps.json
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\bin\Debug\net6.0\SeminarTask4.runtimeconfig.json
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\bin\Debug\net6.0\SeminarTask4.dll
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\bin\Debug\net6.0\SeminarTask4.pdb
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.dll
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\refint\SeminarTask4.dll
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.pdb
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\SeminarTask4.genruntimeconfig.cache
+C:\Users\Курасов Евгений\Desktop\GeekBrains\Seminar1\SeminarTask4\obj\Debug\net6.0\ref\SeminarTask4.dll
